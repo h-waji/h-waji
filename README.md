@@ -4,8 +4,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-waji&layout=compact)
 
-<!--START_SECTION:codersrank-->
-<script src="https://cdn.jsdelivr.net/npm/@codersrank/embed@1.1.0/dist/embed.js"></script>
-<codersrank-summary username="h-waji"></codersrank-summary>
-<codersrank-skills-chart username="h-waji"></codersrank-skills-chart>
-<!--END_SECTION:codersrank-->
+![CodersRank Skills Chart](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=h-waji)
+
